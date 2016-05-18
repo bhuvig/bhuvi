@@ -1,5 +1,5 @@
 
 file.open("newfile.txt", "w")
 a=input()
-file.write("")
+file.write(a)
 file.close()

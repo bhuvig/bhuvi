@@ -1,5 +1,5 @@
 
-file.open("newfile.txt", "w")
+file.open("bhuvi.txt", "w")
 a=input()
 file.write(a)
 file.close()
